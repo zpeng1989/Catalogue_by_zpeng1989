@@ -76,7 +76,7 @@
 *	[1.3.4 Kears学习代码](https://github.com/zpeng1989/2017_code_updata_to_use/tree/master/Keras)
 * [1.3.5 Theano学习代码](https://github.com/zpeng1989/2017_code_updata_to_use/tree/master/Theano)
 * [1.3.6 Tensorflow学习代码](https://github.com/zpeng1989/2017_code_updata_to_use/tree/master/tensorflow_all_code)
-* [1.3.7 转移学习方法代码】（https://github.com/zpeng1989/2017_code_updata_to_use/tree/master/tranfor_learn%E9%9C%80%E8%A6%81%E7%9A%84code）
+* [1.3.7 转移学习方法代码](https://github.com/zpeng1989/2017_code_updata_to_use/tree/master/tranfor_learn%E9%9C%80%E8%A6%81%E7%9A%84code)
 * [1.3.8 强化学习方法代码](https://github.com/zpeng1989/2017_code_updata_to_use/tree/master/%E5%AF%B9%E6%8A%97%E5%AD%A6%E4%B9%A0%E7%9A%84coide)
 * [1.3.9 机器学习方法代码](https://github.com/zpeng1989/2017_code_updata_to_use/tree/master/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%9A%84%E4%BB%A3%E7%A0%81)
 * [1.3.10 正则匹配方法代码](https://github.com/zpeng1989/2017_code_updata_to_use/tree/master/%E6%AD%A3%E5%88%99%E5%8C%B9%E9%85%8D%E7%9A%84code)
