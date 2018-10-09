@@ -28,6 +28,8 @@
 *	[1.1.20 深度学习翻译](https://github.com/zpeng1989/deeplearningbook-chinese)
 * [1.1.21 各种深度学习案例](https://github.com/zpeng1989/cv-papers)
 * [1.1.22 tensorflow 轻简版的使用案例及说明](https://github.com/zpeng1989/easy-tensorflow)
+* [1.1.23 深度学习框架设计](https://github.com/SpikeKing/DL-Project-Template)
+
 
 ###  1.2 其他相关项目
 
@@ -185,3 +187,5 @@
 * [8.12 数据挖局作业](https://github.com/zpeng1989/WeiBo_SentimentAnalysis)
 * [8.13 微信分析一些代码](https://github.com/zpeng1989/python-wechat-itchat)
 * [8.14 模拟登陆知乎，获取关注问题的id下 所有答案，并推送到kindle电子书](https://github.com/zpeng1989/zhihuToKindle)
+
+
