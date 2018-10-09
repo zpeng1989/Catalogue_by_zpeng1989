@@ -26,6 +26,8 @@
 *	[1.1.18 机器学习文档](https://github.com/zpeng1989/MachineLearning)
 *	[1.1.19 TensorFlow中文文档](https://github.com/zpeng1989/tensorflow-zh)
 *	[1.1.20 深度学习翻译](https://github.com/zpeng1989/deeplearningbook-chinese)
+* [1.1.21 各种深度学习案例](https://github.com/zpeng1989/cv-papers)
+* [1.1.22 tensorflow 轻简版的使用案例及说明](https://github.com/zpeng1989/easy-tensorflow)
 
 ###  1.2 其他相关项目
 
