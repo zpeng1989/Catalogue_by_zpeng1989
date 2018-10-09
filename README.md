@@ -165,6 +165,7 @@
 ## 7.面试题整理
 
 * [7.1 笔试面试(其他人完成)](https://github.com/zpeng1989/Interview_Notes-Chinese)
+* [7.2 计算机中文图书整理](https://github.com/zpeng1989/free-programming-books-zh_CN)
 
 ## 8.其他
 
