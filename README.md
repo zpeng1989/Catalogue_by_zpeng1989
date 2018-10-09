@@ -69,7 +69,7 @@
 *	[1.2.34 病理图像分型3](https://github.com/zpeng1989/camelyon16)
 *	[1.2.35 文本分类](https://github.com/zpeng1989/YAST)
 *	[1.2.36 识别老板头像](https://github.com/zpeng1989/BossComing)
-
+* [1.2.37 106个点识别头像项目](https://github.com/zeusees/HyperLandmark)
 
  ###  1.3 自己完成项目
 *	[1.3.1 识别OCR（借鉴他人程序）](https://github.com/zpeng1989/chinese_ocr)
