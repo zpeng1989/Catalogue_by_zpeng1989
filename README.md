@@ -29,6 +29,7 @@
 * [1.1.21 各种深度学习案例](https://github.com/zpeng1989/cv-papers)
 * [1.1.22 tensorflow 轻简版的使用案例及说明](https://github.com/zpeng1989/easy-tensorflow)
 * [1.1.23 深度学习框架设计](https://github.com/SpikeKing/DL-Project-Template)
+* [1.1.24 机器学习+机器学习+特征工程整理的博客汇总](https://github.com/zpeng1989/machinelearning-1)
 
 
 ###  1.2 其他相关项目
