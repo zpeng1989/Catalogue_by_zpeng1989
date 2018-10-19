@@ -189,4 +189,9 @@
 * [8.13 微信分析一些代码](https://github.com/zpeng1989/python-wechat-itchat)
 * [8.14 模拟登陆知乎，获取关注问题的id下 所有答案，并推送到kindle电子书](https://github.com/zpeng1989/zhihuToKindle)
 
+## 9.IGV判读相关整理
 
+### 9.1 学习资料
+
+* [9.1.1 谷歌团队的 call snp 方法](https://github.com/google/deepvariant)
+* []
