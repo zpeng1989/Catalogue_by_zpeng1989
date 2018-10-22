@@ -194,7 +194,8 @@
 ### 9.1 学习资料
 
 * [9.1.1 谷歌团队的 call snp 方法](https://github.com/google/deepvariant)
-* [9.1.2 转移学习方法使用]()
+* [9.1.2 转移学习方法使用](https://github.com/HIT-Owen/Simplest-Optimized-TF_SLIM_WORKFLOW)
+
 
 ## 10 医学文本分析
 
