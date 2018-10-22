@@ -189,9 +189,24 @@
 * [8.13 微信分析一些代码](https://github.com/zpeng1989/python-wechat-itchat)
 * [8.14 模拟登陆知乎，获取关注问题的id下 所有答案，并推送到kindle电子书](https://github.com/zpeng1989/zhihuToKindle)
 
-## 9.IGV判读相关整理
+## 9 IGV判读相关整理
 
 ### 9.1 学习资料
 
 * [9.1.1 谷歌团队的 call snp 方法](https://github.com/google/deepvariant)
-* []
+* [9.1.2 转移学习方法使用]()
+
+## 10 医学文本分析
+
+### 10.1 学习资料
+
+* [10.1.1 NLP基础知识准备]（https://github.com/duoergun0729/nlp）
+* [10.1.2 NLP大神](https://github.com/codertimo)
+* [10.1.3 文本分类部分样例]（https://github.com/FudanNLP/nlpcc2017_news_headline_categorization）
+* [10.1.4 医学病历数据整理的NLP] (https://github.com/Meijian/EMR_NLP_MachineLearning)
+* [10.1.5 文本挖掘评分，情感分析项目落地]（https://github.com/duoergun0729/nlp/blob/master/%E9%A2%84%E6%B5%8BYelp%E7%BE%8E%E9%A3%9F%E8%AF%84%E5%88%86.md）
+* [10.1.6 文本主题查找]（https://github.com/duoergun0729/nlp/blob/master/%E4%BD%BF%E7%94%A8LDA%E8%BF%9B%E8%A1%8C%E6%96%87%E6%A1%A3%E4%B8%BB%E9%A2%98%E5%BB%BA%E6%A8%A1.md）
+* [10.1.7 文本关键词查找]（https://github.com/duoergun0729/nlp/blob/master/%E4%BD%BF%E7%94%A8TextRank%E5%92%8CTFIDF%E8%BF%9B%E8%A1%8C%E5%85%B3%E9%94%AE%E5%AD%97%E8%87%AA%E5%8A%A8%E6%8F%90%E5%8F%96.md）
+* [10.1.8 文本摘要构建](https://github.com/zkwi/textSummary)
+
+
