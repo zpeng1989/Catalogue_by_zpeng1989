@@ -211,5 +211,6 @@
 * [10.1.6 文本主题查找](https://github.com/duoergun0729/nlp/blob/master/%E4%BD%BF%E7%94%A8LDA%E8%BF%9B%E8%A1%8C%E6%96%87%E6%A1%A3%E4%B8%BB%E9%A2%98%E5%BB%BA%E6%A8%A1.md)
 * [10.1.7 文本关键词查找](https://github.com/duoergun0729/nlp/blob/master/%E4%BD%BF%E7%94%A8TextRank%E5%92%8CTFIDF%E8%BF%9B%E8%A1%8C%E5%85%B3%E9%94%AE%E5%AD%97%E8%87%AA%E5%8A%A8%E6%8F%90%E5%8F%96.md)
 * [10.1.8 文本摘要构建](https://github.com/zkwi/textSummary)
+* [10.1.9 病历数据落地项目，直接通过这个项目获得最佳信息提取](https://github.com/CogStack/CogStack-SemEHR)
 
 
