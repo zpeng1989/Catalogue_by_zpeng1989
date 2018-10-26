@@ -213,4 +213,5 @@
 * [10.1.8 文本摘要构建](https://github.com/zkwi/textSummary)
 * [10.1.9 病历数据落地项目，直接通过这个项目获得最佳信息提取](https://github.com/CogStack/CogStack-SemEHR)
 * [10.1.10 病历数据落地项目-R语言](https://github.com/PheWAS/PheWAS)
+* [10.1.11 NLP关系方法处理](https://github.com/crownpku/Information-Extraction-Chinese)
 
