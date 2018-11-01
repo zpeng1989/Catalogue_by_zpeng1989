@@ -72,6 +72,8 @@
 *	[1.2.36 识别老板头像](https://github.com/zpeng1989/BossComing)
 * [1.2.37 106个点识别头像项目](https://github.com/zeusees/HyperLandmark)
 * [1.2.38 风格转移](https://github.com/zpeng1989/StyleTransferTrilogy)
+* [1.2.39 整理NLP常用方法](https://github.com/fighting41love/funNLP)
+* [1.2.40 bert 模型公开]()
 
  ###  1.3 自己完成项目
 *	[1.3.1 识别OCR（借鉴他人程序）](https://github.com/zpeng1989/chinese_ocr)
@@ -161,6 +163,7 @@
 * [5.2.10 甲基化数据预测分型](https://github.com/zpeng1989/methylantion_ML_sumamry)
 * [5.2.11 通过下一代测序获得肿瘤内的异质性并追踪纵向和空间克隆进化史](https://github.com/zpeng1989/Canopy)
 * [5.2.12 NGS分析流程](https://github.com/zpeng1989/NGS-pipeline)
+* [5.2.13 亚克隆事件说明](https://github.com/zengliX/SIFA)
 
 ## 6.算法先关代码
 
