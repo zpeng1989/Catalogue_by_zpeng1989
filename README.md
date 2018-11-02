@@ -199,6 +199,7 @@
 
 * [9.1.1 谷歌团队的 call snp 方法](https://github.com/google/deepvariant)
 * [9.1.2 转移学习方法使用](https://github.com/HIT-Owen/Simplest-Optimized-TF_SLIM_WORKFLOW)
+* [9.1.2.1 转移学习方法使用原始](https://github.com/caslei/TfModels/tree/master/slim)
 * [9.1.3 网络结构整理](https://github.com/tensorflow/models/tree/master/research/slim)
 
 
