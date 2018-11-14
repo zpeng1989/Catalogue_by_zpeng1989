@@ -115,6 +115,7 @@
 * [2.1.17 豆瓣数据下载整理](https://github.com/zpeng1989/2017_code_updata_to_use/tree/master/%E8%B1%86%E7%93%A3%E7%94%B5%E5%BD%B1%E5%88%86%E6%9E%90code)
 * [2.1.18 旧版半次元网站和问卷星处理下载](https://github.com/zpeng1989/2018_01_11_workout_by_download_banciyuan)
 * [2.1.19 python爬虫案例说明](https://github.com/zpeng1989/IPProxyPool)
+* [2.1.20 python爬虫案例说明2](https://github.com/zpeng1989/Spider)
 
 ###  2.2 爬取API（第三方网站类）
 
@@ -164,6 +165,9 @@
 * [5.2.11 通过下一代测序获得肿瘤内的异质性并追踪纵向和空间克隆进化史](https://github.com/zpeng1989/Canopy)
 * [5.2.12 NGS分析流程](https://github.com/zpeng1989/NGS-pipeline)
 * [5.2.13 亚克隆事件说明](https://github.com/zengliX/SIFA)
+* [5.2.14 LOH相关代码1](https://github.com/uci-cbcl/PyLOH)
+* [5.2.15 LOH相关代码2](https://github.com/gavinha/TitanCNA)
+
 
 ## 6.算法先关代码
 
@@ -219,3 +223,11 @@
 * [10.1.10 病历数据落地项目-R语言](https://github.com/PheWAS/PheWAS)
 * [10.1.11 NLP关系方法处理](https://github.com/crownpku/Information-Extraction-Chinese)
 
+## 11 病理图分析
+
+### 11.1 学习资料
+
+
+### 11.2 准备工作
+
+* [11.2.1 KFB格式转tiff数据](https://github.com/babiking/KFB_Convert_TIFF)
