@@ -209,6 +209,8 @@
 * [9.1.2 转移学习方法使用](https://github.com/HIT-Owen/Simplest-Optimized-TF_SLIM_WORKFLOW)
 * [9.1.2.1 转移学习方法使用原始](https://github.com/caslei/TfModels/tree/master/slim)
 * [9.1.3 网络结构整理](https://github.com/tensorflow/models/tree/master/research/slim)
+* [9.1.4 call snv 新方法]()
+* [9.1.5 call snv deepvarient 方法](https://github.com/zpeng1989/DeepVariant-GLnexus-WDL)
 
 
 ## 10 医学文本分析
