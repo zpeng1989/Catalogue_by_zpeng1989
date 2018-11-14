@@ -30,6 +30,7 @@
 * [1.1.22 tensorflow 轻简版的使用案例及说明](https://github.com/zpeng1989/easy-tensorflow)
 * [1.1.23 深度学习框架设计](https://github.com/SpikeKing/DL-Project-Template)
 * [1.1.24 机器学习+机器学习+特征工程整理的博客汇总](https://github.com/zpeng1989/machinelearning-1)
+* [1.1.25 知乎上整理的所有github学习教程文章](https://zhuanlan.zhihu.com/p/47136826)
 
 
 ###  1.2 其他相关项目
@@ -74,6 +75,9 @@
 * [1.2.38 风格转移](https://github.com/zpeng1989/StyleTransferTrilogy)
 * [1.2.39 整理NLP常用方法](https://github.com/fighting41love/funNLP)
 * [1.2.40 bert 模型公开]()
+* [1.2.41 BIGGAN 自动生成图片的方案](https://zhuanlan.zhihu.com/p/49529546)
+* [1.2.42 谷歌项目落地测试位置](https://research.google.com/seedbank/seeds?q=GAN)
+* [1.2.43 自动填补图像的程序](https://github.com/deeppomf/DeepCreamPy)
 
  ###  1.3 自己完成项目
 *	[1.3.1 识别OCR（借鉴他人程序）](https://github.com/zpeng1989/chinese_ocr)
@@ -226,8 +230,13 @@
 ## 11 病理图分析
 
 ### 11.1 学习资料
+* [11.1.1 病理图像分析项目1](https://github.com/DIDSR/DeepLearningCamelyon)
+* [11.1.2 病理图像分析项目2](https://github.com/zpeng1989/camelyon)
+* [11.1.3 病理图像分析项目3](https://github.com/zpeng1989/camelyon16)
 
 
 ### 11.2 准备工作
 
 * [11.2.1 KFB格式转tiff数据](https://github.com/babiking/KFB_Convert_TIFF)
+* [11.2.2 数据准备工作](https://github.com/DIDSR/DeepLearningCamelyon/blob/master/0%20-%20Preparation/Camelyon16dataset.md)
+
