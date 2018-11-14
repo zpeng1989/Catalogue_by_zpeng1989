@@ -74,7 +74,7 @@
 * [1.2.37 106个点识别头像项目](https://github.com/zeusees/HyperLandmark)
 * [1.2.38 风格转移](https://github.com/zpeng1989/StyleTransferTrilogy)
 * [1.2.39 整理NLP常用方法](https://github.com/fighting41love/funNLP)
-* [1.2.40 bert 模型公开]()
+* [1.2.40 bert 模型公开](https://github.com/zpeng1989/bert)
 * [1.2.41 BIGGAN 自动生成图片的方案](https://zhuanlan.zhihu.com/p/49529546)
 * [1.2.42 谷歌项目落地测试位置](https://research.google.com/seedbank/seeds?q=GAN)
 * [1.2.43 自动填补图像的程序](https://github.com/deeppomf/DeepCreamPy)
@@ -233,6 +233,7 @@
 * [11.1.1 病理图像分析项目1](https://github.com/DIDSR/DeepLearningCamelyon)
 * [11.1.2 病理图像分析项目2](https://github.com/zpeng1989/camelyon)
 * [11.1.3 病理图像分析项目3](https://github.com/zpeng1989/camelyon16)
+* [11.1.4 病理图像分析项目4](https://github.com/anuragvermaknn/digital-image-analysis-sulli)
 
 
 ### 11.2 准备工作
