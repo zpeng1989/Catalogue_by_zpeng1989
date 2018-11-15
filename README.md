@@ -200,6 +200,7 @@
 * [8.12 数据挖局作业](https://github.com/zpeng1989/WeiBo_SentimentAnalysis)
 * [8.13 微信分析一些代码](https://github.com/zpeng1989/python-wechat-itchat)
 * [8.14 模拟登陆知乎，获取关注问题的id下 所有答案，并推送到kindle电子书](https://github.com/zpeng1989/zhihuToKindle)
+* [8.15 有意思的人做的有趣的项目](https://github.com/lrq154439/crawl_web/tree/e4c7ad9e38b6cce4a6ac82967bba4969cdb39790)
 
 ## 9 IGV判读相关整理
 
@@ -209,8 +210,9 @@
 * [9.1.2 转移学习方法使用](https://github.com/HIT-Owen/Simplest-Optimized-TF_SLIM_WORKFLOW)
 * [9.1.2.1 转移学习方法使用原始](https://github.com/caslei/TfModels/tree/master/slim)
 * [9.1.3 网络结构整理](https://github.com/tensorflow/models/tree/master/research/slim)
-* [9.1.4 call snv 新方法]()
+* [9.1.4 call snv 新方法](https://github.com/broadinstitute/dsde-deep-learning)
 * [9.1.5 call snv deepvarient 方法](https://github.com/zpeng1989/DeepVariant-GLnexus-WDL)
+* [9.1.6 谷歌的deepvarient v7](https://github.com/google/deepvariant/tree/r0.7/docs)
 
 
 ## 10 医学文本分析
