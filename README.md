@@ -232,14 +232,24 @@
 ## 11 病理图分析
 
 ### 11.1 学习资料
-* [11.1.1 病理图像分析项目1](https://github.com/DIDSR/DeepLearningCamelyon)
-* [11.1.2 病理图像分析项目2](https://github.com/zpeng1989/camelyon)
-* [11.1.3 病理图像分析项目3](https://github.com/zpeng1989/camelyon16)
-* [11.1.4 病理图像分析项目4](https://github.com/anuragvermaknn/digital-image-analysis-sulli)
-
+* [11.1.1 病理图像分析项目-比赛1](https://github.com/DIDSR/DeepLearningCamelyon)
+* [11.1.2 病理图像分析项目-比赛2](https://github.com/zpeng1989/camelyon)
+* [11.1.3 病理图像分析项目-比赛3](https://github.com/zpeng1989/camelyon16)
+* [11.1.4 病理图像分析项目-比赛4](https://github.com/anuragvermaknn/digital-image-analysis-sulli)
+* [11.1.5 病理图像分析项目-其他1-前列腺活检标本图像预处理，用于深度学习](https://github.com/binLearning/proc_histopathology_image)
+* [11.1.6 病理图像分析项目-其他2-使用大图片阅读整张幻灯片的图片](https://digitalslidearchive.github.io/HistomicsTK/examples/wsi-io-using-large-image.html)
+* [11.1.7 病理图像分析项目-其他3-Python工具包和基于web的组织病理学图像分析平台](https://github.com/DigitalSlideArchive/HistomicsTK)
+* [11.1.8 深度卷积混合高斯模型用于组织病理学H&E图像的彩色归一化](https://github.com/FarhadZanjani/Histopathology-Stain-Color-Normalization)
+* [11.1.9 cs231n项目用于灰度组织病理学图像着色，参考彩色图像](https://github.com/sarahmu/Histopathology-Imaging)
+* [11.1.10 基于cgan的多器官细胞核分割](https://github.com/faisalml/NucleiSegmentation)
+* [11.1.11 这个存储库概述了HistoVAE项目。利用无监督深度学习从组织病理学图像中学习表征，从无标记的组织病理学图像中创造效用](https://gitlab.com/willgdjones/HistoVAE#https://openslide.org/api/python/#module-openslide.deepzoom)
 
 ### 11.2 准备工作
 
 * [11.2.1 KFB格式转tiff数据](https://github.com/babiking/KFB_Convert_TIFF)
 * [11.2.2 数据准备工作](https://github.com/DIDSR/DeepLearningCamelyon/blob/master/0%20-%20Preparation/Camelyon16dataset.md)
+
+### 11.3 社区
+
+* [11.3.1 病理社区1](https://github.com/DigitalSlideArchive)
 
