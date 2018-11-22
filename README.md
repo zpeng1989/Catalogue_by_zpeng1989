@@ -31,6 +31,7 @@
 * [1.1.23 深度学习框架设计](https://github.com/SpikeKing/DL-Project-Template)
 * [1.1.24 机器学习+机器学习+特征工程整理的博客汇总](https://github.com/zpeng1989/machinelearning-1)
 * [1.1.25 知乎上整理的所有github学习教程文章](https://zhuanlan.zhihu.com/p/47136826)
+* [1.1.26 李航的统计学习方法一书使用的代码和课间](https://github.com/WenDesi/lihang_book_algorithm)
 
 
 ###  1.2 其他相关项目
