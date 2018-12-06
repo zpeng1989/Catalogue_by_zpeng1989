@@ -253,6 +253,18 @@
 * [11.2.1 KFB格式转tiff数据](https://github.com/babiking/KFB_Convert_TIFF)
 * [11.2.2 数据准备工作](https://github.com/DIDSR/DeepLearningCamelyon/blob/master/0%20-%20Preparation/Camelyon16dataset.md)
 
+### 11.3 开工
+
+* [11.3.1.1 TCGA数据位置及说明](https://biometry.nci.nih.gov/cdas/learn/nlst/images/)
+* [11.3.1.2 TCGA数据说明等](https://biometry.nci.nih.gov/cdas/learn/nlst/trial-summary/)
+
+* [11.3.2.1 TCGA数据做出的CNN模型-肺癌病理图像综合分析-生存分析](https://github.com/sdw95927/pathology-images-analysis-using-CNN)
+* [11.3.2.2 病理比赛的数据做的模型](https://github.com/baidu-research/NCRF)
+* [11.3.2.3 完整模型输出结果，但无训练过程](https://github.com/basveeling/pcam)
+* [11.3.2.4 完成脚本，直接分割区域](https://github.com/PingjunChen/pyslide)
+* [11.3.2.5 首选使用，有模型说明及使用方法](https://github.com/zhaoxuanma/Deeplearning-digital-pathology)
+
+
 ### 11.3 社区
 
 * [11.3.1 病理社区1](https://github.com/DigitalSlideArchive)
