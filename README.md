@@ -266,6 +266,9 @@
 * [11.3.2.6 deepath 病理图分析的方法](https://github.com/ncoudray/DeepPATH/tree/master/DeepPATH_code)
 * [11.3.3.1 H&E病理图标准化](https://github.com/FarhadZanjani/Histopathology-Stain-Color-Normalization)
 * [11.3.3.2 标注出细胞位置](https://github.com/renebidart/cancer_hist)
+* [11.3.3.3 细胞识别形态](https://github.com/quqixun/CellDetection)
+* [11.3.3.4 细胞形态标准软件](https://github.com/CellProfiler/CellProfiler-Analyst)
+* [11.3.4.1 乳腺癌项目](https://github.com/aditisingh/Breast_cancer_detection)
 
 
 
