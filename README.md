@@ -203,6 +203,7 @@
 * [8.13 微信分析一些代码](https://github.com/zpeng1989/python-wechat-itchat)
 * [8.14 模拟登陆知乎，获取关注问题的id下 所有答案，并推送到kindle电子书](https://github.com/zpeng1989/zhihuToKindle)
 * [8.15 有意思的人做的有趣的项目](https://github.com/lrq154439/crawl_web/tree/e4c7ad9e38b6cce4a6ac82967bba4969cdb39790)
+* [8.16 图像破解工作说明](https://github.com/LiuXingMing/WeiboSliderCode)
 
 ## 9 IGV判读相关整理
 
@@ -262,9 +263,21 @@
 * [11.3.2.3 完整模型输出结果，但无训练过程](https://github.com/basveeling/pcam)
 * [11.3.2.4 完成脚本，直接分割区域](https://github.com/PingjunChen/pyslide)
 * [11.3.2.5 首选使用，有模型说明及使用方法](https://github.com/zhaoxuanma/Deeplearning-digital-pathology)
+* [11.3.2.6 deepath 病理图分析的方法](https://github.com/ncoudray/DeepPATH/tree/master/DeepPATH_code)
+
 
 
 ### 11.3 社区
 
 * [11.3.1 病理社区1](https://github.com/DigitalSlideArchive)
+
+
+## 12 NBA球员说明
+
+### 12.1 NBA球员信息
+
+* [12.1 NBA球员信息1](https://github.com/ThinkerBoy/NBA-Model)
+* [12.2 NBA球员信息2](https://github.com/ThinkerBoy/nba-players)
+* [12.3 NBA球员信息3](https://github.com/ThinkerBoy/mvp-predict)
+* [12.4 NBA球员信息4](https://github.com/ThinkerBoy/nba_game_predictor)
 
