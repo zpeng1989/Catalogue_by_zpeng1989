@@ -264,6 +264,8 @@
 * [11.3.2.4 完成脚本，直接分割区域](https://github.com/PingjunChen/pyslide)
 * [11.3.2.5 首选使用，有模型说明及使用方法](https://github.com/zhaoxuanma/Deeplearning-digital-pathology)
 * [11.3.2.6 deepath 病理图分析的方法](https://github.com/ncoudray/DeepPATH/tree/master/DeepPATH_code)
+* [11.3.3.1 H&E病理图标准化](https://github.com/FarhadZanjani/Histopathology-Stain-Color-Normalization)
+* [11.3.3.2 标注出细胞位置](https://github.com/renebidart/cancer_hist)
 
 
 
