@@ -289,7 +289,7 @@
 ### 12.2 爬区网站参考
 
 * [12.2.1 写入数据库程序](https://github.com/MrYxJ/Work_In_Library_Code/blob/18a745621f8aaeec45b543760c6416a150fe11ca/New_Work/Test.py)
-* [12.2.2 写入表格的程序] (https://github.com/LuckyXuLu/periodical/blob/02a49575bcc35bb5249c94f1c51017807e49ae41/letpub_project/letpub_project/spiders/letpub.py)
+* [12.2.2 写入表格的程序](https://github.com/LuckyXuLu/periodical/blob/02a49575bcc35bb5249c94f1c51017807e49ae41/letpub_project/letpub_project/spiders/letpub.py)
 * [12.2.3 写入表格的爬虫](https://github.com/linboqiao/spider/blob/345e2ab4bdf28b215c8dabcbefb9963d8393dd86/spider_fundings_guangdong_univer_and_hosp.py)
 * [12.2.4 爬基金项目爬虫](https://github.com/jhao104/preintell_nsfc/tree/1769cb5ae8ff5bbcef41043637c3ab9a34230eb0/spider)
 
