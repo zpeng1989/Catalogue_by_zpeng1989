@@ -277,12 +277,28 @@
 * [11.3.1 病理社区1](https://github.com/DigitalSlideArchive)
 
 
-## 12 NBA球员说明
+## 12 2018-12月需求暂存
 
 ### 12.1 NBA球员信息
 
-* [12.1 NBA球员信息1](https://github.com/ThinkerBoy/NBA-Model)
-* [12.2 NBA球员信息2](https://github.com/ThinkerBoy/nba-players)
-* [12.3 NBA球员信息3](https://github.com/ThinkerBoy/mvp-predict)
-* [12.4 NBA球员信息4](https://github.com/ThinkerBoy/nba_game_predictor)
+* [12.1.1 NBA球员信息1](https://github.com/ThinkerBoy/NBA-Model)
+* [12.1.2 NBA球员信息2](https://github.com/ThinkerBoy/nba-players)
+* [12.1.3 NBA球员信息3](https://github.com/ThinkerBoy/mvp-predict)
+* [12.1.4 NBA球员信息4](https://github.com/ThinkerBoy/nba_game_predictor)
 
+### 12.2 爬区网站参考
+
+* [12.2.1 写入数据库程序](https://github.com/MrYxJ/Work_In_Library_Code/blob/18a745621f8aaeec45b543760c6416a150fe11ca/New_Work/Test.py)
+* [12.2.2 写入表格的程序] (https://github.com/LuckyXuLu/periodical/blob/02a49575bcc35bb5249c94f1c51017807e49ae41/letpub_project/letpub_project/spiders/letpub.py)
+* [12.2.3 写入表格的爬虫](https://github.com/linboqiao/spider/blob/345e2ab4bdf28b215c8dabcbefb9963d8393dd86/spider_fundings_guangdong_univer_and_hosp.py)
+* [12.2.4 爬基金项目爬虫](https://github.com/jhao104/preintell_nsfc/tree/1769cb5ae8ff5bbcef41043637c3ab9a34230eb0/spider)
+
+### 12.3 其他项目
+
+* [12.3.1 爬图片网站](https://github.com/cunxi1992/grab_beautiful_girls_pictures)
+* [12.3.2 给女友的编程书](https://github.com/tonychee7000/program-book-for-girlfriend)
+* [12.3.3 下载大图的网站](https://github.com/rfyiamcool/girl_siwa)
+* [12.3.4 面部识别](https://github.com/Entropy-xcy/RankFace)
+* [12.3.5 meizitu网站下载](https://github.com/JadenTseng/python-get-girl-image)
+* [12.3.6 通过语言分析情绪](https://github.com/CasterWx/python-girlfriend-mood)
+* [12.3.7 NLP主要项目](https://zhuanlan.zhihu.com/p/51279338)
