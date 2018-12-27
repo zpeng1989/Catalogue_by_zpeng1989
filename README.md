@@ -234,6 +234,7 @@
 * [10.1.10 病历数据落地项目-R语言](https://github.com/PheWAS/PheWAS)
 * [10.1.11 NLP关系方法处理](https://github.com/crownpku/Information-Extraction-Chinese)
 * [10.1.12 犯罪文本分析](https://github.com/liuhuanyong/LawCrimeMining)
+* [10.1.13 中文医疗图谱分析](https://github.com/liuhuanyong/QASystemOnMedicalKG)
 
 
 ## 11 病理图分析
