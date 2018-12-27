@@ -235,6 +235,7 @@
 * [10.1.11 NLP关系方法处理](https://github.com/crownpku/Information-Extraction-Chinese)
 * [10.1.12 犯罪文本分析](https://github.com/liuhuanyong/LawCrimeMining)
 * [10.1.13 中文医疗图谱分析](https://github.com/liuhuanyong/QASystemOnMedicalKG)
+* [10.1.14 病历分析](https://github.com/zhangxiaolei0123/NERuselocal)
 
 
 ## 11 病理图分析
