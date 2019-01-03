@@ -309,5 +309,5 @@
 * [12.3.6 通过语言分析情绪](https://github.com/CasterWx/python-girlfriend-mood)
 * [12.3.7 NLP主要项目](https://zhuanlan.zhihu.com/p/51279338)
 * [12.3.8 哈利波特小说生成](https://github.com/joycex99/hp-word-model)
-
-
+* [12.3.9 训练翻译机器](https://github.com/foamliu/Machine-Translation-v2)
+* [12.3.10 翻译接口](https://github.com/Chinese-boy/Many-Translaters)
