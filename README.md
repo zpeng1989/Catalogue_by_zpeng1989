@@ -82,6 +82,7 @@
 * [1.2.42 谷歌项目落地测试位置](https://research.google.com/seedbank/seeds?q=GAN)
 * [1.2.43 自动填补图像的程序](https://github.com/deeppomf/DeepCreamPy)
 * [1.2.44 自动写代码-北京大学作品](https://github.com/zpeng1989/GrammarCNN)
+* [1.2.45 肺癌3D效果图的分析](https://github.com/hengck23-kaggle/lung_cancer_2017)
 
  ###  1.3 自己完成项目
 *	[1.3.1 识别OCR（借鉴他人程序）](https://github.com/zpeng1989/chinese_ocr)
