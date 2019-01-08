@@ -240,6 +240,7 @@
 * [10.1.13 中文医疗图谱分析](https://github.com/liuhuanyong/QASystemOnMedicalKG)
 * [10.1.14 病历分析](https://github.com/zhangxiaolei0123/NERuselocal)
 * [10.1.15 电子病历实体化的案例](https://github.com/liuhuanyong/MedicalNamedEntityRecognition)
+* [10.1.16 电子病历实体化的案例2](https://github.com/baiyyang/medical-entity-recognition)
 
 
 ## 11 病理图分析
