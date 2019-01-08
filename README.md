@@ -276,6 +276,7 @@
 * [11.3.3.3 细胞识别形态](https://github.com/quqixun/CellDetection)
 * [11.3.3.4 细胞形态标准软件](https://github.com/CellProfiler/CellProfiler-Analyst)
 * [11.3.4.1 乳腺癌项目](https://github.com/aditisingh/Breast_cancer_detection)
+* [11.3.5 细胞特征提取项目](https://github.com/wanghuajia/cell-classification/tree/master/the%20whole%20project)
 
 
 
