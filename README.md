@@ -34,6 +34,7 @@
 * [1.1.26 李航的统计学习方法一书使用的代码和课间](https://github.com/WenDesi/lihang_book_algorithm)
 * [1.1.27 YOLO部分的分析和源码](https://github.com/reu2018dl/yolo-lite)
 * [1.1.28 有趣的项目整理](https://github.com/Honlan/DeepInterests.git)
+* [1.1.29 北京大学使用的语义库](https://github.com/lancopku/pkuseg-python)
 
 
 ###  1.2 其他相关项目
