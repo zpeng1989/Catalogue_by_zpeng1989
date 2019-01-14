@@ -318,3 +318,4 @@
 * [12.3.8 哈利波特小说生成](https://github.com/joycex99/hp-word-model)
 * [12.3.9 训练翻译机器](https://github.com/foamliu/Machine-Translation-v2)
 * [12.3.10 翻译接口](https://github.com/Chinese-boy/Many-Translaters)
+* [12.3.11 修复图片](https://github.com/youyuge34/Anime-InPainting)
