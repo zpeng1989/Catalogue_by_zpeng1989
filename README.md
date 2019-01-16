@@ -101,6 +101,8 @@
 * [1.3.13 进化算法整理](https://github.com/zpeng1989/2017_code_updata_to_use/tree/master/%E8%BF%9B%E5%8C%96%E7%AE%97%E6%B3%95)
 * [1.3.14 RNN预测分析](https://github.com/zpeng1989/rnn_predict)
 
+### 1.4 使用的开源项目
+* [1.4.1 DCGAN开源--识别面部](https://carpedm20.github.io/faces/)
 
 ## 2.爬虫
 
