@@ -323,3 +323,4 @@
 * [12.3.11 修复图片](https://github.com/youyuge34/Anime-InPainting)
 * [12.3.12 自动生成图片](https://github.com/sileixinhua/BeautifulGirls)
 * [12.3.13 自动生成hip](https://github.com/TobiasLee/Chinese-Hip-pop-Generation)
+* [12.3.14 ocr volg 方法](https://github.com/chineseocr/chineseocr)
