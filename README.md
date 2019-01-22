@@ -324,3 +324,4 @@
 * [12.3.12 自动生成图片](https://github.com/sileixinhua/BeautifulGirls)
 * [12.3.13 自动生成hip](https://github.com/TobiasLee/Chinese-Hip-pop-Generation)
 * [12.3.14 ocr volg 方法](https://github.com/chineseocr/chineseocr)
+* [12.3.15 关系图生成--高校图](https://github.com/s-top/Baike-KnowledgeGraph)
