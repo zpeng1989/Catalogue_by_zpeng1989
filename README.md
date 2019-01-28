@@ -35,6 +35,8 @@
 * [1.1.27 YOLO部分的分析和源码](https://github.com/reu2018dl/yolo-lite)
 * [1.1.28 有趣的项目整理](https://github.com/Honlan/DeepInterests.git)
 * [1.1.29 北京大学使用的语义库](https://github.com/lancopku/pkuseg-python)
+* [1.1.30 超级全的程序员资料汇总](https://github.com/GitHubDaily/GitHubDaily)
+* [1.1.31 自动生成对联](https://github.com/wb14123/seq2seq-couplet)
 
 
 ###  1.2 其他相关项目
