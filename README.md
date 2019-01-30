@@ -37,6 +37,7 @@
 * [1.1.29 北京大学使用的语义库](https://github.com/lancopku/pkuseg-python)
 * [1.1.30 超级全的程序员资料汇总](https://github.com/GitHubDaily/GitHubDaily)
 * [1.1.31 自动生成对联](https://github.com/wb14123/seq2seq-couplet)
+* [1.1.32 100天学习机器学习内容](https://github.com/Avik-Jain/100-Days-of-ML-Code-Chinese-Version)
 
 
 ###  1.2 其他相关项目
