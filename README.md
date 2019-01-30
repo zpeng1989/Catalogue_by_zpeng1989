@@ -327,3 +327,4 @@
 * [12.3.13 自动生成hip](https://github.com/TobiasLee/Chinese-Hip-pop-Generation)
 * [12.3.14 ocr volg 方法](https://github.com/chineseocr/chineseocr)
 * [12.3.15 关系图生成--高校图](https://github.com/s-top/Baike-KnowledgeGraph)
+* [12.3.16 程序员黑名单说明](https://github.com/shengxinjing/programmer-job-blacklist)
