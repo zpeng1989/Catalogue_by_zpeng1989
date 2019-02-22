@@ -226,6 +226,7 @@
 * [9.1.4 call snv 新方法](https://github.com/broadinstitute/dsde-deep-learning)
 * [9.1.5 call snv deepvarient 方法](https://github.com/zpeng1989/DeepVariant-GLnexus-WDL)
 * [9.1.6 谷歌的deepvarient v7](https://github.com/google/deepvariant/tree/r0.7/docs)
+* [9.1.7 Clairvoyante从BAM文件查找突变](https://github.com/aquaskyline/Clairvoyante)
 
 
 ## 10 医学文本分析
