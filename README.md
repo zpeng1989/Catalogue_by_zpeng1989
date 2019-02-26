@@ -38,6 +38,8 @@
 * [1.1.30 超级全的程序员资料汇总](https://github.com/GitHubDaily/GitHubDaily)
 * [1.1.31 自动生成对联](https://github.com/wb14123/seq2seq-couplet)
 * [1.1.32 100天学习机器学习内容](https://github.com/Avik-Jain/100-Days-of-ML-Code-Chinese-Version)
+* [1.1.33 面试题目分类](https://github.com/imhuay/Algorithm_Interview_Notes-Chinese)
+* [1.1.34 学习整理DLMLNLP](https://github.com/imhuay/Algorithm_Interview_Notes-Chinese)
 
 
 ###  1.2 其他相关项目
